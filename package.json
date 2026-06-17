@@ -1,0 +1,13 @@
+{
+  "name": "korea-youth-policy-ai",
+  "version": "1.0.0",
+  "description": "한국 청년 지원 정책 AI 매칭 서비스",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
